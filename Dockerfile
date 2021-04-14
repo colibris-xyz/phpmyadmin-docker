@@ -2,7 +2,7 @@ FROM trafex/alpine-nginx-php7:2.0.0
 
 USER root
 
-RUN apk add --no-cache php7-iconv
+RUN apk add --no-cache php8-iconv
 
 USER nobody
 
