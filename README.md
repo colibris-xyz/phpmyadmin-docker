@@ -1,5 +1,6 @@
-[![GitHub release](https://img.shields.io/github/v/release/colibris-xyz/phpmyadmin-docker.svg?style=flat)](https://github.com/colibris-xyz/phpmyadmin-docker/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/colibris-xyz/phpmyadmin-docker)](https://github.com/colibris-xyz/phpmyadmin-docker/blob/main/LICENSE)
+[![Releases](https://img.shields.io/gitlab/v/release/colibris-xyz/phpmyadmin-docker?gitlab_url=https%3A%2F%2Fframagit.org)](https://framagit.org/colibris-xyz/phpmyadmin-docker/-/releases)
+[![Build status](https://img.shields.io/gitlab/pipeline-status/colibris-xyz/phpmyadmin-docker?branch=main&gitlab_url=https%3A%2F%2Fframagit.org)](https://framagit.org/colibris-xyz/phpmyadmin-docker/-/pipelines)
+[![License](https://img.shields.io/gitlab/license/colibris-xyz/phpmyadmin-docker?gitlab_url=https%3A%2F%2Fframagit.org)](https://framagit.org/colibris-xyz/phpmyadmin-docker/-/blob/main/LICENSE)
 
 # All-in-one (nginx + php-fpm) Docker image for phpMyAdmin
 
