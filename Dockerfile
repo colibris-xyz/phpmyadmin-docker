@@ -1,4 +1,4 @@
-FROM trafex/php-nginx:3.0.0
+FROM trafex/php-nginx:3.5.0
 
 USER root
 
