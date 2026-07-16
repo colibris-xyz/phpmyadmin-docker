@@ -1,8 +1,8 @@
-FROM trafex/php-nginx:3.0.0
+FROM trafex/php-nginx:3.11.1
 
 USER root
 
-RUN apk add --no-cache php81-iconv
+RUN apk add --no-cache php85-iconv
 
 USER nobody
 
